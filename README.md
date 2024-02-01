@@ -1,7 +1,9 @@
-# Projet pédagogique pour alternant 2D
+# Java Game
 
-Développé à l'hiver 2023
+Juan Camilo Restrepo Torres
 
-Ce TP est constitué de 4 séances de découverte de la POO suivis de deux séances de conception.
+2D java game with 3 functionalities:
 
-![](./src/TP2D/TP2D-__TP2D_s_Class_Diagram____.png)
+- Timer
+- FPS display
+- Being able to complete the level
